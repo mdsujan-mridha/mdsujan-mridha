@@ -39,7 +39,7 @@ expand my learning and builds upon my developer skills.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=mdsujan-mridha)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsujan-mridha &show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsujan-mridha)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdsujan-mridha )  
 
