@@ -1,9 +1,4 @@
 
-
-
-
-
-<img src = "https://i.ibb.co/18hSkvp/68296079.jpg" />
 <h1> Hi there 👋, myself Md.Sujan </h1>
 <h2>Web Developer</h2>
 <h3>
