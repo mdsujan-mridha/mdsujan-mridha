@@ -4,15 +4,15 @@
 
 
 <img src = "https://i.ibb.co/18hSkvp/68296079.jpg" />
-# Hi there 👋, myself Md.Sujan
-## Web Developer
-
+<h1> Hi there 👋, myself Md.Sujan </h1>
+<h2>Web Developer</h2>
+<h3>
 Hard-working web developer with a flair for creating elegant solutions in the least amount of time. With a proven
 ability to adapt to both self-starting and collaborative environments while staying focused on achieving high-
 quality results under strict deadlines. Eager to obtain a challenging position at a prestigious company that will
 expand my learning and builds upon my developer skills.
 
-
+</h3>
 
 
 
