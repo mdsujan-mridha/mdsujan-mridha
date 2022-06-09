@@ -1,7 +1,7 @@
 
 <h1> Hi there 👋, myself Md. Sujan </h1>
 <img src="Blue and Orange Corporate LinkedIn Banner.jpg" alt="Alt text" title="Optional title">
-<h2 style = "text-align: center">MERN Developer</h2>
+<h2 style = "text-align: center">MERN Stack Developer</h2>
 <h4>
 Hard-working web developer with a flair for creating elegant solutions in the least amount of time. With a proven
 ability to adapt to both self-starting and collaborative environments while staying focused on achieving high-
