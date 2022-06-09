@@ -1,5 +1,6 @@
 
 <h1> Hi there 👋, myself Md.Sujan </h1>
+<img src="Blue and Orange Corporate LinkedIn Banner.jpg" alt="Alt text" title="Optional title">
 <h2>Web Developer</h2>
 <h3>
 Hard-working web developer with a flair for creating elegant solutions in the least amount of time. With a proven
