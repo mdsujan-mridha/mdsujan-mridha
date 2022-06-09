@@ -1,14 +1,14 @@
 
-<h1> Hi there 👋, myself Md.Sujan </h1>
+<h1> Hi there 👋, myself Md. Sujan </h1>
 <img src="Blue and Orange Corporate LinkedIn Banner.jpg" alt="Alt text" title="Optional title">
-<h2>Web Developer</h2>
-<h3>
+<h2 style = "text-align: center">MERN Developer</h2>
+<h4>
 Hard-working web developer with a flair for creating elegant solutions in the least amount of time. With a proven
 ability to adapt to both self-starting and collaborative environments while staying focused on achieving high-
 quality results under strict deadlines. Eager to obtain a challenging position at a prestigious company that will
 expand my learning and builds upon my developer skills.
 
-</h3>
+</h4>
 
 
 
@@ -18,7 +18,7 @@ expand my learning and builds upon my developer skills.
 - 👯 I’m looking to collaborate on you 
 - 🤔 I’m looking for help with web developing 
 - 💬 Ask me about web development 
-- 📫 How to reach me: mdsujon1353736@gmail.com 
+- 📫 How to reach me: md.sujan0105@gmail.com
 
 <h1 align="center">A passionate MERN Stack developer from Bangladesh</h1>
 
